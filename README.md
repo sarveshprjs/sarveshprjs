@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🚗 [Driver Drowsiness Detection](https://github.com/sarveshprjs/driver-drowsiness-detection) | Real-time computer vision system to detect sleepy drivers | Python, OpenCV, Dlib |
-| 🅿️ [Smart Parking System](https://github.com/sarveshprjs/parking-spot-detection-cv) | Detects empty slots in parking areas using video feed | OpenCV, YOLO, Python |
+| 🅿️ [Smart Parking System](https://github.com/sarveshprjs/parking-smart-spot-cv) | Detects empty slots in parking areas using video feed | OpenCV, YOLO, Python |
 | 🩺 [Telehealth Analyzer](#) | AI-enhanced virtual health consultation dashboard | Streamlit, Pandas, ML |
 
 ---
