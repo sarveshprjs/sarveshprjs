@@ -54,9 +54,8 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-link]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:upasanisarvesh45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
