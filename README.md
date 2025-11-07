@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Yoriichi GIF Header -->
-<img src="./assets/yorichi.gif" alt="Yoriichi Tsugikuni" width="100%"/>
+<!-- Yoriichi GIF with CORRECT raw GitHub URL -->
+<img src="https://raw.githubusercontent.com/sarveshprjs/assets/main/yorichi.gif" alt="Yoriichi Tsugikuni" width="100%"/>
 
 <!-- Animated Title -->
 <h1>
