@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header with Yoriichi GIF -->
-<img src="./assets/your-gif.gif" alt="Yoriichi Theme" width="100%"/>
+<!-- Yoriichi GIF Header -->
+<img src="./assets/yorichi.gif" alt="Yoriichi Tsugikuni" width="100%"/>
 
 <!-- Animated Title -->
 <h1>
@@ -108,12 +108,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sarveshprjs&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-<br/>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -143,7 +137,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sarveshprjs&color=FF0000&style=flat-square)
 
-**Made with ❤️ and Demon Slayer inspiration**
+**Made with ❤️ and Yoriichi's inspiration**
 
 <br/>
 
